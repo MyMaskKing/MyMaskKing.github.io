@@ -205,7 +205,10 @@ AI视频创作是一个充满无限可能的副业赛道。它为你提供了一
 ---
 
 POST_TITLE: AI视频创作副业：你的数字分身，躺着也能赚美金！_AI精选
-POST_CATEGORIES: [副业专区]
-POST_TAGS: [AI副业, 自动化赚钱, 短视频制作, YouTube变现, TikTok赚钱, AI工具, 内容创作, 傻瓜式教程, 被动收入]
+POST_CATEGORIES: 副业专区
+POST_TAGS: AI副业, 自动化赚钱, 短视频制作, YouTube变现, TikTok赚钱, AI工具, 内容创作, 傻瓜式教程, 被动收入
 POST_STICKY:
 POST_COVER:
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ5Njk0Nzk4OV19
+-->
