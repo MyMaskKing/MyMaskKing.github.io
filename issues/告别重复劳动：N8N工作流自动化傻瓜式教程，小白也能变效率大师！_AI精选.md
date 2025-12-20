@@ -204,7 +204,10 @@ N8N 就像为你打开了一扇通往自动化世界的大门。从现在开始�
 
 ---
 POST_TITLE: 告别重复劳动：N8N工作流自动化傻瓜式教程，小白也能变效率大师！_AI精选
-POST_CATEGORIES: [教程]
-POST_TAGS: [N8N, 工作流自动化, 低代码, 无代码, 效率工具, Docker, 傻瓜式教程, 生产力]
+POST_CATEGORIES: 教程
+POST_TAGS: N8N, 工作流自动化, 低代码, 无代码, 效率工具, Docker, 傻瓜式教程, 生产力
 POST_STICKY:
 POST_COVER:
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM4MjcwODU2NF19
+-->
